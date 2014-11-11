@@ -1,0 +1,1624 @@
+# depslib dependency file v1.0
+1334590542 source:c:\users\guilherme\desktop\pratica 4 fps\src\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<gl/glut.h>
+	<al/alut.h>
+
+976674172 c:\users\guilherme\desktop\pratica 4 fps\codeblocks\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1307692032 c:\users\guilherme\desktop\pratica 4 fps\codeblocks\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1254353242 c:\users\guilherme\desktop\pratica 4 fps\codeblocks\include\gl\gl.h
+
+1254353242 c:\users\guilherme\desktop\pratica 4 fps\codeblocks\include\gl\glu.h
+	<GL/gl.h>
+
+1334588768 c:\users\guilherme\desktop\pratica 4 fps\codeblocks\include\al\alut.h
+	<al/alc.h>
+	<al/al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1176490968 c:\users\guilherme\desktop\pratica 4 fps\codeblocks\include\al\alc.h
+
+1165602658 c:\users\guilherme\desktop\pratica 4 fps\codeblocks\include\al\al.h
+
+1150220762 source:c:\users\guilherme\desktop\pratica 4 fps\src\bitmap.c
+	"bitmap.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1032704640 c:\users\guilherme\desktop\pratica 4 fps\src\bitmap.h
+	<GL/glut.h>
+	<windows.h>
+	<wingdi.h>
+
+1150220762 source:c:\users\guilherme\desktop\html\pratica4_arquivos\src\bitmap.c
+	"bitmap.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1032704640 c:\users\guilherme\desktop\html\pratica4_arquivos\src\bitmap.h
+	<GL/glut.h>
+	<windows.h>
+	<wingdi.h>
+
+976674172 c:\users\guilherme\desktop\html\pratica4_arquivos\codeblocks\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254353242 c:\users\guilherme\desktop\html\pratica4_arquivos\codeblocks\include\gl\gl.h
+
+1254353242 c:\users\guilherme\desktop\html\pratica4_arquivos\codeblocks\include\gl\glu.h
+	<GL/gl.h>
+
+1150220762 source:c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\src\bitmap.c
+	"bitmap.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1032704640 c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\src\bitmap.h
+	<GL/glut.h>
+	<windows.h>
+	<wingdi.h>
+
+976674172 c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\codeblocks\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254353242 c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\codeblocks\include\gl\gl.h
+
+1254353242 c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\codeblocks\include\gl\glu.h
+	<GL/gl.h>
+
+1336325103 source:c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\src\modelal.cpp
+	<windows.h>
+	<gl/glut.h>
+	"ModelAl.h"
+	"Vetor3D.h"
+
+1336154952 c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\src\modelal.h
+	<stdio.h>
+	<string.h>
+	"3DObject.h"
+	"Sphere.h"
+	<vector>
+
+1336154924 c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\src\3dobject.h
+	<string.h>
+	"glm.h"
+
+1336323785 c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\src\glm.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iostream>
+	<gl/glut.h>
+
+1336154914 c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\src\sphere.h
+	<string.h>
+	<gl/glut.h>
+
+1323085738 c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\src\vetor3d.h
+
+1336325122 source:c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\src\sphere.cpp
+	<windows.h>
+	<gl/glut.h>
+	"Vetor3D.h"
+	"Sphere.h"
+	<math.h>
+
+1323085738 source:c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\src\vetor3d.cpp
+	"Vetor3D.h"
+	<math.h>
+
+1336324841 source:c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\src\glm.cpp
+	<windows.h>
+	<math.h>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1336341061 source:c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\src\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<gl/glut.h>
+	<al/alut.h>
+	"bitmap.h"
+	"ModelAl.h"
+	"3DObject.h"
+
+1334588768 c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\codeblocks\include\al\alut.h
+	<al/alc.h>
+	<al/al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1176490968 c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\codeblocks\include\al\alc.h
+
+1165602658 c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\codeblocks\include\al\al.h
+
+1336151164 source:c:\users\guilherme\desktop\pratica 5 iluminacao\pratica5\src\3dobject.cpp
+	"3DObject.h"
+	<malloc.h>
+
+1336161964 source:d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\src\3dobject.cpp
+	"3DObject.h"
+	<malloc.h>
+
+1336165724 d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\src\3dobject.h
+	<string.h>
+	"glm.h"
+
+1336334584 d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\src\glm.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iostream>
+	<gl/glut.h>
+
+976684972 d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\codeblocks\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254364042 d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\codeblocks\include\gl\gl.h
+
+1254364042 d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\codeblocks\include\gl\glu.h
+	<GL/gl.h>
+
+1150231562 source:d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\src\bitmap.c
+	"bitmap.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1032715440 d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\src\bitmap.h
+	<GL/glut.h>
+	<windows.h>
+	<wingdi.h>
+
+1336335640 source:d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\src\glm.cpp
+	<windows.h>
+	<math.h>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1399334026 source:d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\src\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<gl/glut.h>
+	<al/alut.h>
+	"bitmap.h"
+	"ModelAl.h"
+	"3DObject.h"
+
+1334599568 d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\codeblocks\include\al\alut.h
+	<al/alc.h>
+	<al/al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1176501768 d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\codeblocks\include\al\alc.h
+
+1165613458 d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\codeblocks\include\al\al.h
+
+1336165752 d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\src\modelal.h
+	<stdio.h>
+	<string.h>
+	"3DObject.h"
+	"Sphere.h"
+	<vector>
+
+1336165714 d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\src\sphere.h
+	<string.h>
+	<gl/glut.h>
+
+1336335902 source:d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\src\modelal.cpp
+	<windows.h>
+	<gl/glut.h>
+	"ModelAl.h"
+	"Vetor3D.h"
+
+1323096538 d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\src\vetor3d.h
+
+1336335922 source:d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\src\sphere.cpp
+	<windows.h>
+	<gl/glut.h>
+	"Vetor3D.h"
+	"Sphere.h"
+	<math.h>
+
+1323096538 source:d:\ppgc - mestrado\primeiro semestre\fcg\pratica5\pratica 5 iluminacao\pratica5\src\vetor3d.cpp
+	"Vetor3D.h"
+	<math.h>
+
+1399349091 source:c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\src\3dobject.cpp
+	"3DObject.h"
+	<malloc.h>
+
+1399349091 c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\src\3dobject.h
+	<string.h>
+	"glm.h"
+
+1398812018 c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\src\glm.h
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+976684972 c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\codeblocks\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301111164 c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\codeblocks\include\gl\gl.h
+
+1301111164 c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\codeblocks\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1150231562 source:c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\src\bitmap.c
+	"bitmap.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1032715440 c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\src\bitmap.h
+	<GL/glut.h>
+	<windows.h>
+	<wingdi.h>
+
+1398812020 source:c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\src\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1399354413 source:c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\src\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<gl/glut.h>
+	<al/alut.h>
+	"bitmap.h"
+	"3DObject.h"
+
+1334599568 c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\codeblocks\include\al\alut.h
+	<al/alc.h>
+	<al/al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1176501768 c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\codeblocks\include\al\alc.h
+
+1165613458 c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\codeblocks\include\al\al.h
+
+1336165752 c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\src\modelal.h
+	<stdio.h>
+	<string.h>
+	"3DObject.h"
+	"Sphere.h"
+	<vector>
+
+1336165714 c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\src\sphere.h
+	<string.h>
+	<gl/glut.h>
+
+1336335902 source:c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\src\modelal.cpp
+	<windows.h>
+	<gl/glut.h>
+	"ModelAl.h"
+	"Vetor3D.h"
+
+1323096538 c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\src\vetor3d.h
+
+1336335922 source:c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\src\sphere.cpp
+	<windows.h>
+	<gl/glut.h>
+	"Vetor3D.h"
+	"Sphere.h"
+	<math.h>
+
+1323096538 source:c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\src\vetor3d.cpp
+	"Vetor3D.h"
+	<math.h>
+
+1398812008 c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\src\vector3f.h
+	<cmath>
+
+1399353128 source:c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\src\glmimg.cpp
+	<string.h>
+	<math.h>
+	"Texture.h"
+	<windows.h>
+	<GL/gl.h>
+	"glm.h"
+
+1398812010 c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\src\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+
+1398812012 source:c:\users\dgb\desktop\pratica5\pratica 5 iluminacao\pratica5\src\texture.cpp
+	"Texture.h"
+
+1399349091 source:c:\users\dgb\desktop\pratica4_source_files\src\3dobject.cpp
+	"3DObject.h"
+	<malloc.h>
+
+1399349091 c:\users\dgb\desktop\pratica4_source_files\src\3dobject.h
+	<string.h>
+	"glm.h"
+
+1398812018 c:\users\dgb\desktop\pratica4_source_files\src\glm.h
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1301111164 c:\users\dgb\desktop\pratica4_source_files\codeblocks\include\gl\gl.h
+
+976684972 c:\users\dgb\desktop\pratica4_source_files\codeblocks\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301111164 c:\users\dgb\desktop\pratica4_source_files\codeblocks\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1150231562 source:c:\users\dgb\desktop\pratica4_source_files\src\bitmap.c
+	"bitmap.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1032715440 c:\users\dgb\desktop\pratica4_source_files\src\bitmap.h
+	<GL/glut.h>
+	<windows.h>
+	<wingdi.h>
+
+1398812020 source:c:\users\dgb\desktop\pratica4_source_files\src\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1399353128 source:c:\users\dgb\desktop\pratica4_source_files\src\glmimg.cpp
+	<string.h>
+	<math.h>
+	"Texture.h"
+	<windows.h>
+	<GL/gl.h>
+	"glm.h"
+
+1398812010 c:\users\dgb\desktop\pratica4_source_files\src\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+
+1398812012 source:c:\users\dgb\desktop\pratica4_source_files\src\texture.cpp
+	"Texture.h"
+
+1399358696 source:c:\users\dgb\desktop\pratica4_source_files\src\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<gl/glut.h>
+	<al/alut.h>
+	"bitmap.h"
+	"3DObject.h"
+
+1334599568 c:\users\dgb\desktop\pratica4_source_files\codeblocks\include\al\alut.h
+	<al/alc.h>
+	<al/al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1176501768 c:\users\dgb\desktop\pratica4_source_files\codeblocks\include\al\alc.h
+
+1165613458 c:\users\dgb\desktop\pratica4_source_files\codeblocks\include\al\al.h
+
+1399349091 source:C:\Users\Pedro\Desktop\atividades praticas\prática 4\pratica4_source_files\pratica4_source_files\src\3dobject.cpp
+	"3DObject.h"
+	<malloc.h>
+
+1399349091 C:\Users\Pedro\Desktop\atividades praticas\prática 4\pratica4_source_files\pratica4_source_files\src\3dobject.h
+	<string.h>
+	"glm.h"
+
+1398812018 C:\Users\Pedro\Desktop\atividades praticas\prática 4\pratica4_source_files\pratica4_source_files\src\glm.h
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1301111164 C:\Users\Pedro\Desktop\atividades praticas\prática 4\pratica4_source_files\pratica4_source_files\codeblocks\include\gl\gl.h
+
+976684972 C:\Users\Pedro\Desktop\atividades praticas\prática 4\pratica4_source_files\pratica4_source_files\codeblocks\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301111164 C:\Users\Pedro\Desktop\atividades praticas\prática 4\pratica4_source_files\pratica4_source_files\codeblocks\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1150231562 source:C:\Users\Pedro\Desktop\atividades praticas\prática 4\pratica4_source_files\pratica4_source_files\src\bitmap.c
+	"bitmap.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1032715440 C:\Users\Pedro\Desktop\atividades praticas\prática 4\pratica4_source_files\pratica4_source_files\src\bitmap.h
+	<GL/glut.h>
+	<windows.h>
+	<wingdi.h>
+
+1398812020 source:C:\Users\Pedro\Desktop\atividades praticas\prática 4\pratica4_source_files\pratica4_source_files\src\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1399353128 source:C:\Users\Pedro\Desktop\atividades praticas\prática 4\pratica4_source_files\pratica4_source_files\src\glmimg.cpp
+	<string.h>
+	<math.h>
+	"Texture.h"
+	<windows.h>
+	<GL/gl.h>
+	"glm.h"
+
+1398812010 C:\Users\Pedro\Desktop\atividades praticas\prática 4\pratica4_source_files\pratica4_source_files\src\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+
+1400469161 source:C:\Users\Pedro\Desktop\atividades praticas\prática 4\pratica4_source_files\pratica4_source_files\src\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<gl/glut.h>
+	<al/alut.h>
+	"bitmap.h"
+	"3DObject.h"
+
+1334599568 C:\Users\Pedro\Desktop\atividades praticas\prática 4\pratica4_source_files\pratica4_source_files\codeblocks\include\al\alut.h
+	<al/alc.h>
+	<al/al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1176501768 C:\Users\Pedro\Desktop\atividades praticas\prática 4\pratica4_source_files\pratica4_source_files\codeblocks\include\al\alc.h
+
+1165613458 C:\Users\Pedro\Desktop\atividades praticas\prática 4\pratica4_source_files\pratica4_source_files\codeblocks\include\al\al.h
+
+1398812012 source:C:\Users\Pedro\Desktop\atividades praticas\prática 4\pratica4_source_files\pratica4_source_files\src\texture.cpp
+	"Texture.h"
+
+1399352692 source:C:\Users\Pedro\Desktop\trabalho final pengo\project\src\3dobject.cpp
+	"3DObject.h"
+	<malloc.h>
+	"3DObject.h"
+	<malloc.h>
+
+1399352692 C:\Users\Pedro\Desktop\trabalho final pengo\project\src\3dobject.h
+	<string.h>
+	"glm.h"
+	<string.h>
+	"glm.h"
+
+1398815618 C:\Users\Pedro\Desktop\trabalho final pengo\project\src\glm.h
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1301114764 C:\Users\Pedro\Desktop\trabalho final pengo\project\codeblocks\include\gl\gl.h
+
+976688572 C:\Users\Pedro\Desktop\trabalho final pengo\project\codeblocks\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301114764 C:\Users\Pedro\Desktop\trabalho final pengo\project\codeblocks\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+	<stddef.h>
+	<GL/gl.h>
+
+1150235162 source:C:\Users\Pedro\Desktop\trabalho final pengo\project\src\bitmap.c
+	"bitmap.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	"bitmap.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1032719040 C:\Users\Pedro\Desktop\trabalho final pengo\project\src\bitmap.h
+	<GL/glut.h>
+	<windows.h>
+	<wingdi.h>
+	<GL/glut.h>
+	<windows.h>
+	<wingdi.h>
+
+1404162546 source:C:\Users\Pedro\Desktop\trabalho final pengo\project\src\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1399356730 source:C:\Users\Pedro\Desktop\trabalho final pengo\project\src\glmimg.cpp
+	<string.h>
+	<math.h>
+	"Texture.h"
+	<windows.h>
+	<GL/gl.h>
+	"glm.h"
+	<string.h>
+	<math.h>
+	"Texture.h"
+	<windows.h>
+	<GL/gl.h>
+	"glm.h"
+
+1398815610 C:\Users\Pedro\Desktop\trabalho final pengo\project\src\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+
+1414010439 source:C:\Users\Pedro\Desktop\trabalho final pengo\project\src\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<gl/glut.h>
+	<al/alut.h>
+	"bitmap.h"
+	"mapgame.h"
+	"gameobj.h"
+	"3DObject.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<gl/glut.h>
+	<al/alut.h>
+	"bitmap.h"
+	"mapgame.h"
+	"gameobj.h"
+	"3DObject.h"
+
+1334603168 C:\Users\Pedro\Desktop\trabalho final pengo\project\codeblocks\include\al\alut.h
+	<al/alc.h>
+	<al/al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alc.h>
+	<al/alc.h>
+	<al/al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1176505368 C:\Users\Pedro\Desktop\trabalho final pengo\project\codeblocks\include\al\alc.h
+
+1165617058 C:\Users\Pedro\Desktop\trabalho final pengo\project\codeblocks\include\al\al.h
+
+1398815612 source:C:\Users\Pedro\Desktop\trabalho final pengo\project\src\texture.cpp
+	"Texture.h"
+	"Texture.h"
+
+1414003612 C:\Users\Pedro\Desktop\trabalho final pengo\project\src\mapgame.h
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+
+1399349092 source:c:\users\pedro.frozi\documents\ufrgs\gc\trabalho final pengo\project\src\3dobject.cpp
+	"3DObject.h"
+	<malloc.h>
+
+1399349092 c:\users\pedro.frozi\documents\ufrgs\gc\trabalho final pengo\project\src\3dobject.h
+	<string.h>
+	"glm.h"
+
+1398812018 c:\users\pedro.frozi\documents\ufrgs\gc\trabalho final pengo\project\src\glm.h
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1301111164 c:\users\pedro.frozi\documents\ufrgs\gc\trabalho final pengo\project\codeblocks\include\gl\gl.h
+
+976684972 c:\users\pedro.frozi\documents\ufrgs\gc\trabalho final pengo\project\codeblocks\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301111164 c:\users\pedro.frozi\documents\ufrgs\gc\trabalho final pengo\project\codeblocks\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1150231562 source:c:\users\pedro.frozi\documents\ufrgs\gc\trabalho final pengo\project\src\bitmap.c
+	"bitmap.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1032715440 c:\users\pedro.frozi\documents\ufrgs\gc\trabalho final pengo\project\src\bitmap.h
+	<GL/glut.h>
+	<windows.h>
+	<wingdi.h>
+
+1404158945 source:c:\users\pedro.frozi\documents\ufrgs\gc\trabalho final pengo\project\src\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1399353130 source:c:\users\pedro.frozi\documents\ufrgs\gc\trabalho final pengo\project\src\glmimg.cpp
+	<string.h>
+	<math.h>
+	"Texture.h"
+	<windows.h>
+	<GL/gl.h>
+	"glm.h"
+
+1398812010 c:\users\pedro.frozi\documents\ufrgs\gc\trabalho final pengo\project\src\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+
+1398812012 source:c:\users\pedro.frozi\documents\ufrgs\gc\trabalho final pengo\project\src\texture.cpp
+	"Texture.h"
+
+1404160502 source:c:\users\pedro.frozi\documents\ufrgs\gc\trabalho final pengo\project\src\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<gl/glut.h>
+	<al/alut.h>
+	"bitmap.h"
+	"3DObject.h"
+	"mapgame.h"
+
+1334599568 c:\users\pedro.frozi\documents\ufrgs\gc\trabalho final pengo\project\codeblocks\include\al\alut.h
+	<al/alc.h>
+	<al/al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1176501768 c:\users\pedro.frozi\documents\ufrgs\gc\trabalho final pengo\project\codeblocks\include\al\alc.h
+
+1165613458 c:\users\pedro.frozi\documents\ufrgs\gc\trabalho final pengo\project\codeblocks\include\al\al.h
+
+1404144752 c:\users\pedro.frozi\documents\ufrgs\gc\trabalho final pengo\project\src\mapgame.h
+
+1414007682 C:\Users\Pedro\Desktop\trabalho final pengo\project\src\gameobj.h
+	"mapgame.h"
+	"3DObject.h"
+	<malloc.h>
+	<math.h>
+	<stdio.h>
+	<cstdlib>
+	"mapgame.h"
+	"3DObject.h"
+	<malloc.h>
+	<math.h>
+	<stdio.h>
+	<cstdlib>
+
+1414006767 source:C:\Users\Pedro\Desktop\trabalho final pengo\project\src\gameobj.cpp
+	"gameobj.h"
+	"gameobj.h"
+
+1399349092 source:c:\users\pedro.frozi\documents\ufrgs\gc\last\project\src\3dobject.cpp
+	"3DObject.h"
+	<malloc.h>
+
+1399349092 c:\users\pedro.frozi\documents\ufrgs\gc\last\project\src\3dobject.h
+	<string.h>
+	"glm.h"
+
+1398812018 c:\users\pedro.frozi\documents\ufrgs\gc\last\project\src\glm.h
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1301111164 c:\users\pedro.frozi\documents\ufrgs\gc\last\project\codeblocks\include\gl\gl.h
+
+976684972 c:\users\pedro.frozi\documents\ufrgs\gc\last\project\codeblocks\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301111164 c:\users\pedro.frozi\documents\ufrgs\gc\last\project\codeblocks\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1150231562 source:c:\users\pedro.frozi\documents\ufrgs\gc\last\project\src\bitmap.c
+	"bitmap.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1032715440 c:\users\pedro.frozi\documents\ufrgs\gc\last\project\src\bitmap.h
+	<GL/glut.h>
+	<windows.h>
+	<wingdi.h>
+
+1404158946 source:c:\users\pedro.frozi\documents\ufrgs\gc\last\project\src\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1399353130 source:c:\users\pedro.frozi\documents\ufrgs\gc\last\project\src\glmimg.cpp
+	<string.h>
+	<math.h>
+	"Texture.h"
+	<windows.h>
+	<GL/gl.h>
+	"glm.h"
+
+1398812010 c:\users\pedro.frozi\documents\ufrgs\gc\last\project\src\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+
+1404242526 source:c:\users\pedro.frozi\documents\ufrgs\gc\last\project\src\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<gl/glut.h>
+	<al/alut.h>
+	"bitmap.h"
+	"mapgame.h"
+	"gameobj.h"
+	"3DObject.h"
+
+1334599568 c:\users\pedro.frozi\documents\ufrgs\gc\last\project\codeblocks\include\al\alut.h
+	<al/alc.h>
+	<al/al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1176501768 c:\users\pedro.frozi\documents\ufrgs\gc\last\project\codeblocks\include\al\alc.h
+
+1165613458 c:\users\pedro.frozi\documents\ufrgs\gc\last\project\codeblocks\include\al\al.h
+
+1404247461 c:\users\pedro.frozi\documents\ufrgs\gc\last\project\src\mapgame.h
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+
+1404240842 c:\users\pedro.frozi\documents\ufrgs\gc\last\project\src\gameobj.h
+	"3DObject.h"
+
+1398812012 source:c:\users\pedro.frozi\documents\ufrgs\gc\last\project\src\texture.cpp
+	"Texture.h"
+
+1404241575 source:c:\users\pedro.frozi\documents\ufrgs\gc\last\project\src\gameobj.cpp
+	"gameobj.h"
+	"mapgame.h"
+	<malloc.h>
+	<math.h>
+	<stdio.h>
+
+1404266416 source:C:\Users\Pedro\Desktop\trabalho final pengo\project\src\mapgame.cpp
+	"mapgame.h"
+	"mapgame.h"
+
+1399349092 source:e:\gc\trabalho final pengo\project\src\3dobject.cpp
+	"3DObject.h"
+	<malloc.h>
+
+1399349092 e:\gc\trabalho final pengo\project\src\3dobject.h
+	<string.h>
+	"glm.h"
+
+1398812018 e:\gc\trabalho final pengo\project\src\glm.h
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1301111164 e:\gc\trabalho final pengo\project\codeblocks\include\gl\gl.h
+
+976684972 e:\gc\trabalho final pengo\project\codeblocks\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301111164 e:\gc\trabalho final pengo\project\codeblocks\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1150231562 source:e:\gc\trabalho final pengo\project\src\bitmap.c
+	"bitmap.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1032715440 e:\gc\trabalho final pengo\project\src\bitmap.h
+	<GL/glut.h>
+	<windows.h>
+	<wingdi.h>
+
+1404158946 source:e:\gc\trabalho final pengo\project\src\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1399353130 source:e:\gc\trabalho final pengo\project\src\glmimg.cpp
+	<string.h>
+	<math.h>
+	"Texture.h"
+	<windows.h>
+	<GL/gl.h>
+	"glm.h"
+
+1398812010 e:\gc\trabalho final pengo\project\src\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+
+1404310642 source:e:\gc\trabalho final pengo\project\src\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<gl/glut.h>
+	<al/alut.h>
+	"bitmap.h"
+	"mapgame.h"
+	"gameobj.h"
+	"3DObject.h"
+
+1334599568 e:\gc\trabalho final pengo\project\codeblocks\include\al\alut.h
+	<al/alc.h>
+	<al/al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1176501768 e:\gc\trabalho final pengo\project\codeblocks\include\al\alc.h
+
+1165613458 e:\gc\trabalho final pengo\project\codeblocks\include\al\al.h
+
+1404303586 e:\gc\trabalho final pengo\project\src\mapgame.h
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+
+1404304072 e:\gc\trabalho final pengo\project\src\gameobj.h
+	"mapgame.h"
+	"3DObject.h"
+	<malloc.h>
+	<math.h>
+	<stdio.h>
+	<cstdlib>
+
+1404262816 source:e:\gc\trabalho final pengo\project\src\mapgame.cpp
+	"mapgame.h"
+
+1398812012 source:e:\gc\trabalho final pengo\project\src\texture.cpp
+	"Texture.h"
+
+1404304290 source:e:\gc\trabalho final pengo\project\src\gameobj.cpp
+	"gameobj.h"
+
+1404358974 C:\Users\Pedro\Desktop\trabalho final pengo\project\src\maptype.h
+	"gameobj.h"
+
+1399349092 source:C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\src\3dobject.cpp
+	"3DObject.h"
+	<malloc.h>
+
+1399349092 C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\src\3dobject.h
+	<string.h>
+	"glm.h"
+
+1398812018 C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\src\glm.h
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1301111164 C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\codeblocks\include\gl\gl.h
+
+976684972 C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\codeblocks\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301111164 C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\codeblocks\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1150231562 source:C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\src\bitmap.c
+	"bitmap.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1032715440 C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\src\bitmap.h
+	<GL/glut.h>
+	<windows.h>
+	<wingdi.h>
+
+1404393648 source:C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\src\gameobj.cpp
+	"gameobj.h"
+
+1404393348 C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\src\gameobj.h
+	"mapgame.h"
+	"3DObject.h"
+	<malloc.h>
+	<math.h>
+	<stdio.h>
+	<cstdlib>
+
+1404370201 C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\src\mapgame.h
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+
+1404158946 source:C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\src\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1399353130 source:C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\src\glmimg.cpp
+	<string.h>
+	<math.h>
+	"Texture.h"
+	<windows.h>
+	<GL/gl.h>
+	"glm.h"
+
+1398812010 C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\src\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+
+1404393515 source:C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\src\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<gl/glut.h>
+	<al/alut.h>
+	"bitmap.h"
+	"mapgame.h"
+	"gameobj.h"
+	"3DObject.h"
+
+1334599568 C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\codeblocks\include\al\alut.h
+	<al/alc.h>
+	<al/al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1176501768 C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\codeblocks\include\al\alc.h
+
+1165613458 C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\codeblocks\include\al\al.h
+
+1404262816 source:C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\src\mapgame.cpp
+	"mapgame.h"
+
+1398812012 source:C:\Users\Pedro\Desktop\walter\trabalho final pengo\project\src\texture.cpp
+	"Texture.h"
+
+1399352692 source:e:\outros\project_pengo\src\3dobject.cpp
+	"3DObject.h"
+	<malloc.h>
+
+1399352692 e:\outros\project_pengo\src\3dobject.h
+	<string.h>
+	"glm.h"
+
+1398815618 e:\outros\project_pengo\src\glm.h
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1301114764 e:\outros\project_pengo\codeblocks\include\gl\gl.h
+
+976688572 e:\outros\project_pengo\codeblocks\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301114764 e:\outros\project_pengo\codeblocks\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1150235162 source:e:\outros\project_pengo\src\bitmap.c
+	"bitmap.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1032719040 e:\outros\project_pengo\src\bitmap.h
+	<GL/glut.h>
+	<windows.h>
+	<wingdi.h>
+
+1404162546 source:e:\outros\project_pengo\src\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1399356730 source:e:\outros\project_pengo\src\glmimg.cpp
+	<string.h>
+	<math.h>
+	"Texture.h"
+	<windows.h>
+	<GL/gl.h>
+	"glm.h"
+
+1398815610 e:\outros\project_pengo\src\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+
+1414010440 source:e:\outros\project_pengo\src\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<gl/glut.h>
+	<al/alut.h>
+	"bitmap.h"
+	"mapgame.h"
+	"gameobj.h"
+	"3DObject.h"
+
+1334603168 e:\outros\project_pengo\codeblocks\include\al\alut.h
+	<al/alc.h>
+	<al/al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1176505368 e:\outros\project_pengo\codeblocks\include\al\alc.h
+
+1165617058 e:\outros\project_pengo\codeblocks\include\al\al.h
+
+1414003614 e:\outros\project_pengo\src\mapgame.h
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+
+1414007684 e:\outros\project_pengo\src\gameobj.h
+	"mapgame.h"
+	"3DObject.h"
+	<malloc.h>
+	<math.h>
+	<stdio.h>
+	<cstdlib>
+
+1404266416 source:e:\outros\project_pengo\src\mapgame.cpp
+	"mapgame.h"
+
+1398815612 source:e:\outros\project_pengo\src\texture.cpp
+	"Texture.h"
+
+1399352692 source:c:\users\pedro\desktop\project_pengo\src\3dobject.cpp
+	"3DObject.h"
+	<malloc.h>
+
+1399352692 c:\users\pedro\desktop\project_pengo\src\3dobject.h
+	<string.h>
+	"glm.h"
+
+1398815618 c:\users\pedro\desktop\project_pengo\src\glm.h
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1301114764 c:\users\pedro\desktop\project_pengo\codeblocks\include\gl\gl.h
+
+976688572 c:\users\pedro\desktop\project_pengo\codeblocks\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301114764 c:\users\pedro\desktop\project_pengo\codeblocks\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1150235162 source:c:\users\pedro\desktop\project_pengo\src\bitmap.c
+	"bitmap.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1032719040 c:\users\pedro\desktop\project_pengo\src\bitmap.h
+	<GL/glut.h>
+	<windows.h>
+	<wingdi.h>
+
+1414068614 source:c:\users\pedro\desktop\project_pengo\src\gameobj.cpp
+	"gameobj.h"
+
+1414007684 c:\users\pedro\desktop\project_pengo\src\gameobj.h
+	"mapgame.h"
+	"3DObject.h"
+	<malloc.h>
+	<math.h>
+	<stdio.h>
+	<cstdlib>
+
+1414003614 c:\users\pedro\desktop\project_pengo\src\mapgame.h
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+
+1404162546 source:c:\users\pedro\desktop\project_pengo\src\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1399356730 source:c:\users\pedro\desktop\project_pengo\src\glmimg.cpp
+	<string.h>
+	<math.h>
+	"Texture.h"
+	<windows.h>
+	<GL/gl.h>
+	"glm.h"
+
+1398815610 c:\users\pedro\desktop\project_pengo\src\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+
+1414646155 source:c:\users\pedro\desktop\project_pengo\src\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<gl/glut.h>
+	<al/alut.h>
+	"bitmap.h"
+	"mapgame.h"
+	"gameobj.h"
+	"3DObject.h"
+	"Environment.h"
+
+1334603168 c:\users\pedro\desktop\project_pengo\codeblocks\include\al\alut.h
+	<al/alc.h>
+	<al/al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1176505368 c:\users\pedro\desktop\project_pengo\codeblocks\include\al\alc.h
+
+1165617058 c:\users\pedro\desktop\project_pengo\codeblocks\include\al\al.h
+
+1404266416 source:c:\users\pedro\desktop\project_pengo\src\mapgame.cpp
+	"mapgame.h"
+
+1398815612 source:c:\users\pedro\desktop\project_pengo\src\texture.cpp
+	"Texture.h"
+
+1414645670 source:c:\users\pedro\desktop\project_pengo\src\environment.cpp
+	"Environment.h"
+
+1414646049 c:\users\pedro\desktop\project_pengo\src\environment.h
+	<windows.h>
+	<gl/glut.h>
+	"mapgame.h"
+	"gameobj.h"
+	"3DObject.h"
+	"Floor.h"
+	"bitmap.h"
+
+1414646123 c:\users\pedro\desktop\project_pengo\src\floor.h
+	<windows.h>
+	<gl/glut.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"bitmap.h"
+
+1414645694 source:c:\users\pedro\desktop\project_pengo\src\floor.cpp
+	"Floor.h"
+
+1399352692 source:c:\users\pedro\desktop\project_fcg\src\3dobject.cpp
+	"3DObject.h"
+	<malloc.h>
+
+1399352692 c:\users\pedro\desktop\project_fcg\src\3dobject.h
+	<string.h>
+	"glm.h"
+
+1398815618 c:\users\pedro\desktop\project_fcg\src\glm.h
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1301114764 c:\users\pedro\desktop\project_fcg\codeblocks\include\gl\gl.h
+
+976688572 c:\users\pedro\desktop\project_fcg\codeblocks\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301114764 c:\users\pedro\desktop\project_fcg\codeblocks\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1150235162 source:c:\users\pedro\desktop\project_fcg\src\bitmap.c
+	"bitmap.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1032719040 c:\users\pedro\desktop\project_fcg\src\bitmap.h
+	<GL/glut.h>
+	<windows.h>
+	<wingdi.h>
+
+1414674511 source:c:\users\pedro\desktop\project_fcg\src\environment.cpp
+	"Environment.h"
+
+1414674620 c:\users\pedro\desktop\project_fcg\src\environment.h
+	<windows.h>
+	<gl/glut.h>
+	"mapgame.h"
+	"gameobj.h"
+	"3DObject.h"
+	"Floor.h"
+	"bitmap.h"
+
+1414003614 c:\users\pedro\desktop\project_fcg\src\mapgame.h
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+
+1414007684 c:\users\pedro\desktop\project_fcg\src\gameobj.h
+	"mapgame.h"
+	"3DObject.h"
+	<malloc.h>
+	<math.h>
+	<stdio.h>
+	<cstdlib>
+
+1414676641 c:\users\pedro\desktop\project_fcg\src\floor.h
+	<windows.h>
+	<gl/glut.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"bitmap.h"
+
+1414676586 source:c:\users\pedro\desktop\project_fcg\src\floor.cpp
+	"Floor.h"
+
+1414068614 source:c:\users\pedro\desktop\project_fcg\src\gameobj.cpp
+	"gameobj.h"
+
+1404162546 source:c:\users\pedro\desktop\project_fcg\src\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1399356730 source:c:\users\pedro\desktop\project_fcg\src\glmimg.cpp
+	<string.h>
+	<math.h>
+	"Texture.h"
+	<windows.h>
+	<GL/gl.h>
+	"glm.h"
+
+1398815610 c:\users\pedro\desktop\project_fcg\src\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+
+1404266416 source:c:\users\pedro\desktop\project_fcg\src\mapgame.cpp
+	"mapgame.h"
+
+1398815612 source:c:\users\pedro\desktop\project_fcg\src\texture.cpp
+	"Texture.h"
+
+1414673985 source:c:\users\pedro\desktop\project_fcg\src\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<gl/glut.h>
+	<al/alut.h>
+	"bitmap.h"
+	"mapgame.h"
+	"gameobj.h"
+	"3DObject.h"
+	"Environment.h"
+
+1334603168 c:\users\pedro\desktop\project_fcg\codeblocks\include\al\alut.h
+	<al/alc.h>
+	<al/al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1176505368 c:\users\pedro\desktop\project_fcg\codeblocks\include\al\alc.h
+
+1165617058 c:\users\pedro\desktop\project_fcg\codeblocks\include\al\al.h
+
+1399352692 source:c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\src\3dobject.cpp
+	"3DObject.h"
+	<malloc.h>
+
+1399352692 c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\src\3dobject.h
+	<string.h>
+	"glm.h"
+
+1398815618 c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\src\glm.h
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1301114764 c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\codeblocks\include\gl\gl.h
+
+976688572 c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\codeblocks\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301114764 c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\codeblocks\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1150235162 source:c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\src\bitmap.c
+	"bitmap.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
+1032719040 c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\src\bitmap.h
+	<GL/glut.h>
+	<windows.h>
+	<wingdi.h>
+
+1414674512 source:c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\src\environment.cpp
+	"Environment.h"
+
+1414674622 c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\src\environment.h
+	<windows.h>
+	<gl/glut.h>
+	"mapgame.h"
+	"gameobj.h"
+	"3DObject.h"
+	"Floor.h"
+	"bitmap.h"
+
+1414003614 c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\src\mapgame.h
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<string>
+
+1414007684 c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\src\gameobj.h
+	"mapgame.h"
+	"3DObject.h"
+	<malloc.h>
+	<math.h>
+	<stdio.h>
+	<cstdlib>
+
+1414677410 c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\src\floor.h
+	<windows.h>
+	<gl/glut.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"bitmap.h"
+
+1414676588 source:c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\src\floor.cpp
+	"Floor.h"
+
+1414068614 source:c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\src\gameobj.cpp
+	"gameobj.h"
+
+1404162546 source:c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\src\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1399356730 source:c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\src\glmimg.cpp
+	<string.h>
+	<math.h>
+	"Texture.h"
+	<windows.h>
+	<GL/gl.h>
+	"glm.h"
+
+1398815610 c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\src\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+
+1404266416 source:c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\src\mapgame.cpp
+	"mapgame.h"
+
+1398815612 source:c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_fcg\src\texture.cpp
+	"Texture.h"
+

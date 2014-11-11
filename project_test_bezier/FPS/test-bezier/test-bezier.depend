@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1415130788 source:c:\users\pedro.frozi\documents\dev\project_test_bezier\fps\test-bezier\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"SurfaceB.h"
+
+976688572 c:\users\pedro.frozi\documents\dev\project_test_bezier\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301114764 c:\users\pedro.frozi\documents\dev\project_test_bezier\include\gl\gl.h
+
+1301114764 c:\users\pedro.frozi\documents\dev\project_test_bezier\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1415123635 source:c:\users\pedro.frozi\documents\dev\project_test_bezier\fps\test-bezier\surfaceb.cpp
+	"SurfaceB.h"
+
+1415125951 c:\users\pedro.frozi\documents\dev\project_test_bezier\fps\test-bezier\surfaceb.h
+
+1415132512 source:f:\outros\project_test_bezier\fps\test-bezier\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"SurfaceB.h"
+
+1415125952 f:\outros\project_test_bezier\fps\test-bezier\surfaceb.h
+
+1415123636 source:f:\outros\project_test_bezier\fps\test-bezier\surfaceb.cpp
+	"SurfaceB.h"
+
+1415123636 source:c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_test_bezier\fps\test-bezier\surfaceb.cpp
+	"SurfaceB.h"
+
+1415125952 c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_test_bezier\fps\test-bezier\surfaceb.h
+
+1415279519 source:c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_test_bezier\fps\test-bezier\main.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"SurfaceB.h"
+
+976688572 c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_test_bezier\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301114764 c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_test_bezier\include\gl\gl.h
+
+1301114764 c:\users\public\documents\ufrgs\temporarios\fcg\trabalhofinal\project_test_bezier\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
